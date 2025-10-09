@@ -164,7 +164,7 @@ Estructura basica seria:
     si no tiene nada solo puede aparecer 1
     #PCDATA Esto es para que el usuario lo escriba
 ----------------------------------------------------------------
-Para yo unir el xml con el xsd cuando sea externo:
+Para yo unir el xml con el dtd cuando sea externo:
 
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE liga SYSTEM "liga.dtd">
